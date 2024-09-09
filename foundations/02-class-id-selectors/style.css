@@ -1,0 +1,22 @@
+.bg-pink {
+    background-color:#d89aad ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.txt-sm {
+    font-size: 24px;
+}
+.txt-med {
+    font-size: 48px;
+}
+
+#lg-blue {
+    font-size: 72px;
+    color: blue;
+
+}
+
+#bg-gr-txt-med {
+    background-color: #5ada9a;
+    font-weight: bold;
+    font-size: 48px;
+}
