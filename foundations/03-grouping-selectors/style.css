@@ -1,0 +1,14 @@
+.el-one,
+.el-two {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.el-one {
+    background-color: black;
+    color: white;
+}
+
+.el-two {
+    background-color: yellow;
+}
